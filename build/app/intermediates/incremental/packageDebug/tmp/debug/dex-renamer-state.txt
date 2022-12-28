@@ -1,0 +1,4 @@
+#Mon Oct 31 19:10:38 AST 2022
+base.0=D\:\\covid19app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
